@@ -1,0 +1,8 @@
+{
+    "Istanbul": {"lat": "41.01", "long": "28.95"},
+    "Venice": {"lat": "45.44", "long": "12.33"},
+    "Moscow": {"lat": "55.75", "long": "37.62"},
+    "Tokyo": {"lat": "35.69", "long": "139.69"},
+    "New York": {"lat": "40.71", "long": "-74.01"},
+    "Barcelona": {"lat": "41.39", "long": "2.16"}
+}
